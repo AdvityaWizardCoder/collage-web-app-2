@@ -1,0 +1,27 @@
+#camera{
+    border: 5px dashed black;
+    width: 300px;
+    height: 300px;
+}
+
+.heading{
+    font-weight: bold;
+    width: 500px;
+}
+
+.copy-right-footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 30px;
+}
+
+img{
+    box-shadow: 0 6px 8px  0 black;
+    border-radius: 10px;
+}
+img:hover{
+    border-radius: 140px;
+    transition: 1s;
+}
